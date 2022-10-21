@@ -1,7 +1,7 @@
 const mongoose = require('mongoose');
 const { Schema, model } = require('mongoose')
 
-const URL = "mongodb+srv://rohanranaa:2001@cluster®.us7lmcm.mongodb.net/CAVER"
+const URL = "mongodb+srv://Shivam:2001@cluster0.bxo7vjp.mongodb.net/CAVER"
 
 mongoose.connect(URL, {
     useNewUrlParser: true
